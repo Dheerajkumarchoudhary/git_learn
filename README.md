@@ -9,7 +9,9 @@ Git commands
 - status : gives the status of current file.
 
 - get the SSH key from terminal using below:
+
     ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
+
     then enter the file name : testkey
     press enter 2 times
     type : ls | grep testkey
