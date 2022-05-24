@@ -13,7 +13,11 @@ Git commands
     ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
 
     then enter the file name : testkey
+
     press enter 2 times
+
     type : ls | grep testkey
+
     cat testkey.pub
+
     copy the key and paste it in github
