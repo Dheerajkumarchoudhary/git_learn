@@ -21,3 +21,5 @@ Git commands
     cat testkey.pub
 
     copy the key and paste it in github
+
+- git checkout -b feature
